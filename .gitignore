@@ -2,3 +2,4 @@
 /docs/
 /README_files/
 __pycache__/
+*.html
