@@ -21,6 +21,11 @@ git clone git@github.com:pierre-ed-ds/TP_3_HAX907X_SVM.git
 
 Installez les packages nécessaires puis compilez en faisant attention à l'arborescance des images.
 
+Pour compiler le code de ```script.py```, veillez à installer les packages ```python``` suivants la ligne de commande:
+
+```
+pip install -r requirements.txt
+```
 
 ## Contenu
 
